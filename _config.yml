@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Tom Whyntie's Code Dump
-description: Code snippets for big data, machine learning, deep learning, and whatever.
+description: Code snippets for big data, machine learning, deep learning, and whatever, largely in the context of brain scans.
 pages_list:
   Home: '/'
   About Me: '/about/'

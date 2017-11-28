@@ -1,3 +1,10 @@
+This website is for code snippets related to work on large datasets of brain scans.
+
+## XNAT
+
+- [How can I access an XNAT instance with Python?](./_snippets/access_xnat_with_python.md)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/twhyntie/twhyntie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

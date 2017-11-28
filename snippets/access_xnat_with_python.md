@@ -5,7 +5,7 @@ title: Accessing an XNAT instance with Python
 So it turns out you can access a remote XNAT instance using Python. You'll need to install the `pyxnat` module:
 
 ```bash
-pip install pyxnat
+$ pip install pyxnat
 ```
 
 This will let you play with the XNAT Interface wrapper:

@@ -1,5 +1,7 @@
 ---
-title: Test post!
-layout: post
+title: Accessing XNAT with Python
+date: 2017-11-28 13:00:00 +0000
 ---
-Test post 3!
+# Accessing XNAT with Python
+
+So, you wanna access your XNAT instance with Python? Of course you do!

@@ -9,3 +9,4 @@
 You can have the best analysis pipeline in the world, but if you're data's rubbish you're going to get rubbish out.
 
 - [How can I check for NaNs in my dataset?](./snippets/check_for_nans.md)
+- [How can I find any examples that contain NaNs in my dataset?](./snippets/finding_examples_with_nans.md)

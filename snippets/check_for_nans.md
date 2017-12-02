@@ -11,7 +11,8 @@ they can muck up further calculations or operations with funny error messages (b
 If X is your `numpy` array that may or may not contain NaNs, you can count the NaNs with:
 
 ```python
-n_nans = numpy.count_nonzero(np.isnan(X))
+import numpy as np
+n_nans = np.count_nonzero(np.isnan(X))
 ```
 
 If `n_nans` is non-zero, you'll need to investigate _why_ you're getting NaNs.
